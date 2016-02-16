@@ -1,5 +1,5 @@
 module Foundation
   module Rails
-    VERSION = "5.5.1.1"
+    VERSION = "6.1.2.0"
   end
 end
